@@ -1,4 +1,4 @@
-name: Fetch Latest News
+name: Discord News Bot
 
 on:
   schedule:
