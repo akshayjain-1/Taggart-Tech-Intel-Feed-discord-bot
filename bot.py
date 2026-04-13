@@ -14,7 +14,7 @@ import feedparser
 import requests
 
 DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL", "")
-RSS_FEED_URL = "https://intel.taggartinstitute.org/i/?a=rss"
+RSS_FEED_URL = "https://news.ifin.network/i/?a=rss"
 SEEN_FILE = Path(__file__).parent / "seen_articles.json"
 
 
